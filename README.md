@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I have been learning to code for over 6 years now. After working as a data specialist for several years, I have taken a bigger leap to garner more knowledge and experience in the world of data processing, analyzing and interpretation. Part of the projects I have worked on include the design model of RDMS for a Library; using real-world dataset released by NHS to create a database and carry out data analyses of all the prescriptions using T\_SQL; using Spark SQL and PySpark (both in RDD and Data Frame) to analyse clinical trials of several pharmaceutical companies; and also using MLflow to track and detect faults in machinery of a manufacturing company through the analyses of the data collated from their vibration sensors.
+I have been learning to code for over a year now. After working as a data consultant for several years, I have taken a bigger leap to garner more knowledge and experience in the world of data processing, analyzing and interpretation. Part of the projects I have worked on include the design model of RDMS for a Library; using real-world dataset released by NHS to create a database and carry out data analyses of all the prescriptions using T\_SQL; using Spark SQL and PySpark (both in RDD and Data Frame) to analyse clinical trials of several pharmaceutical companies; and also using MLflow to track and detect faults in machinery of a manufacturing company through the analyses of the data collated from their vibration sensors.
 
 * 🌍  I'm based in Manchester
 * ✉️  You can contact me at [rotcivbiyi@yahoo.com](mailto:rotcivbiyi@yahoo.com)
